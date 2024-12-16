@@ -1,4 +1,4 @@
-# BOOLEAN_FUNCTION_MINIMIZATION
+u# BOOLEAN_FUNCTION_MINIMIZATION
 
 **AIM:**
 
@@ -52,9 +52,9 @@ Developed by:PALLADI VENKATESH VIGNESH ; RegisterNumber: 24001645
 ![Screenshot 2024-12-03 143619](https://github.com/user-attachments/assets/c6575a20-37de-464d-9a56-ea29c8603b97)
 
 
-
 **Timing Diagram**
-![Screenshot 2024-12-03 143957](https://github.com/user-attachments/assets/d2d98194-cd43-4caf-b343-463f1706961b)
+![WhatsApp Image 2024-12-16 at 09 19 36_51177a70](https://github.com/user-attachments/assets/379b0f0f-dbf4-44a9-84b4-2cd9e08b0220)
+Screenshot 2024-12-03 143957](https://github.com/user-attachments/assets/d2d98194-cd43-4caf-b343-463f1706961b)
 
 
 **Result:**
